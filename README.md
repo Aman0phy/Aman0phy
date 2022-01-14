@@ -3,7 +3,7 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 
 ![](https://komarev.com/ghpvc/?username=Aman0phy)
 
-### About Aman
+### About 
 - 🔭 I’m currently working as a **PhD Research Assistant at University of Cincinnati, USA**. My research is aimed at answering the questions concerned with the formation of the universe and its existence today. To answer these questions we analyze the petabyte-scale data generated using the particle collider experiment Belle II in Japan.
 - 🔭 I am involved in multiple physics analysis projects during my Ph.D. Through my research, I have gained an excellent knowledge of statistical data analysis and computer programming in **C++**, **Python**, and **Linux**.
 - 🌱 I’m currently learning [**Data Science and Machine learing**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) from Online courses(**Datacamp, Coursera**),**Kaggle** and reading books.
