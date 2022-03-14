@@ -9,7 +9,7 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 - 🌱 I’m currently learning [**Data Science and Machine learing**] (https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) from Online courses (**Datacamp, Coursera**),**Kaggle** and reading books.
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/Aman0phy?tab=repositories).
-- 📝 I write articles on [**Medium**](https://medium.com/@amansangal9).
+- 📝 I write articles on [**Medium**](https://medium.com/@amansangal9). 
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
 
 
