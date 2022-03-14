@@ -10,7 +10,7 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/Aman0phy?tab=repositories).
 - 📝 I write articles on [**Medium**](https://medium.com/@amansangal9).
-- 📫 How to reach me: [![LinkedIn][3.2]][3] [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
+- 📫 How to reach me: [![LinkedIn][3.2]][3], [![Twitter][1.2]][1] [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
 
 
 
