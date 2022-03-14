@@ -18,11 +18,15 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
+
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aman0phy)](https://github.com/Aman0phy/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0phy&langs_count=5&theme=tokyonight)]()
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman0phy&show_icons=true&theme=radical)
