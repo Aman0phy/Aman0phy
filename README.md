@@ -12,6 +12,12 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 - 📝 I write articles on [**Medium**](https://medium.com/@amansangal9).
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
 
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
