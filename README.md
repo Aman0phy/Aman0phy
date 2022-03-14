@@ -31,6 +31,10 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman0phy&langs_count=5&theme=radical)](https://github.com/Aman0phy/github-readme-stats)
 <a href="https://github.com/Aman0phy/Pima_Diabetes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=Pima_Diabetes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+</a> 
+  
+<a href="https://github.com/Aman0phy/crredit_card_approval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=crredit_card_approval&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
   
   
