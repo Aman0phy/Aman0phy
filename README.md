@@ -14,3 +14,4 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0phy&langs_count=5&theme=tokyonight)]()
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman0phy&show_icons=true&theme=radical)
+
