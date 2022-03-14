@@ -10,7 +10,7 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/Aman0phy?tab=repositories).
 - 📝 I write articles on [**Medium**](https://medium.com/@amansangal9).
-- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
+- 📫 How to reach me: [![LinkedIn][3.2]][3] [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
 
 
 
@@ -32,3 +32,26 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 <a href="https://github.com/Aman0phy/Pima_Diabetes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=Pima_Diabetes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+  
+  
+  <!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/sangal_aman
+[2]: https://github.com/Aman0phy
+[3]: https://www.linkedin.com/in/aman-sangal-1a549083/
+
+
