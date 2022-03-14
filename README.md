@@ -10,7 +10,7 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/Aman0phy?tab=repositories).
 - 📝 I write articles on [**Medium**](https://medium.com/@amansangal9).
-- 📫 How to reach me: [![LinkedIn][3.2]][3], [![Twitter][1.2]][1] [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
+- 📫 How to reach me: [![LinkedIn][3.2]][3], [![Twitter][1.2]][1], [![Kaggle][4.2]][4] [**Linkedin**](https://www.linkedin.com/in/aman-sangal-1a549083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsqFW1RKiT9GlHhScxN%2FrYA%3D%3D), [**Twitter**](https://twitter.com/sangal_aman), [**Kaggle**](https://www.kaggle.com/amansangal), [**Email**](amansangal9@gmail.com)
 
 
 
@@ -46,12 +46,13 @@ I'm Aman Sangal, currently working as a **PhD Research Assistant** in High Energ
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[4.2]: https://imgur.com/a/QWkSUEw
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/sangal_aman
 [2]: https://github.com/Aman0phy
 [3]: https://www.linkedin.com/in/aman-sangal-1a549083/
+[4]: https://www.kaggle.com/amansangal
 
 
