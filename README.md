@@ -8,8 +8,7 @@ I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in High Ener
 - 🔭 My research is aimed at answering the questions concerned with the formation of the universe and its existence today. To answer these questions we analyze the petabyte-scale data generated using the particle collider experiment Belle II in Japan.
 - 🔭 I am involved in multiple physics analysis projects. Through my research, I have gained an excellent knowledge of statistical data analysis and computer programming in **C++**, **Python**, and **Linux**.
 - 🌱 Currently enrolled in **AI for Medicine Specialization** by DeepLearning.AI (Coursera)
-%- 🌱 I’m currently learning [**Data Science and Machine learing**] (https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) from Online %courses (**Datacamp, Coursera**),**Kaggle** and reading books.
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
+- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning** based projects.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/Aman0phy?tab=repositories).
 - 📝 I write articles on [**Medium**](https://medium.com/@amansangal9). 
 - I practice python and SQL on Leet Code. Here is my Profile https://leetcode.com/amansangal9/
