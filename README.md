@@ -42,5 +42,3 @@ I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in High Ener
 <a href="https://github.com/Aman0phy/crredit_card_approval">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=credit_card_approval&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
-  
-  
