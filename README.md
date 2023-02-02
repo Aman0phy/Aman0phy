@@ -35,7 +35,7 @@ I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in High Ener
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=Pima_Diabetes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
   
-<a href="https://github.com/Aman0phy/skin_cancer_prediction_CNN">
+<a href="[https://github.com/Aman0phy/skin_cancer_prediction_CNN](https://github.com/Aman0phy/skin_cancer_prediction_CNN)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman0phy&repo=
 skin_cancer_prediction_CNN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
