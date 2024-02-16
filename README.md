@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Aman! 
-I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in High Energy Physics, a **Data Science and Machine Learning** Practitioner and Learner. Excited to apply the quantitative and data analysis relevant skills to real-world applications.
+I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in Medical Physics, a **Data Science and Machine Learning** Practitioner and Learner. Excited to apply the quantitative and data analysis relevant skills to real-world applications.
 
 ![](https://komarev.com/ghpvc/?username=Aman0phy)
 
