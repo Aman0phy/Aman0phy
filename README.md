@@ -4,7 +4,7 @@ I'm Aman Sangal, currently working as a **Postdoctoral Researcher** in Medical P
 ![](https://komarev.com/ghpvc/?username=Aman0phy)
 
 ### About 
-- 🔭 I’m currently working as a **Postdoctoral Researcher** at University of Cincinnati, USA. 
+- 🔭 I’m currently working as a **Postdoctoral Researcher** at University of Maryland School of Medicine, USA. 
 - 🔭 My research is aimed at answering the questions concerned with the formation of the universe and its existence today. To answer these questions we analyze the petabyte-scale data generated using the particle collider experiment Belle II in Japan.
 - 🔭 I am involved in multiple physics analysis projects. Through my research, I have gained an excellent knowledge of statistical data analysis and computer programming in **C++**, **Python**, and **Linux**.
 - 🌱 Currently enrolled in **AI for Medicine Specialization** by DeepLearning.AI (Coursera)
